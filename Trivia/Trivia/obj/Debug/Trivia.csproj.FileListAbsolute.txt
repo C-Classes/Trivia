@@ -1,0 +1,10 @@
+C:\Users\bolos\source\repos\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\bolos\source\repos\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\bolos\source\repos\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.Form1.resources
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.Properties.Resources.resources
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.csproj.GenerateResource.cache
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\bolos\source\repos\Trivia\Trivia\obj\Debug\Trivia.pdb
